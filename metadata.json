@@ -1,0 +1,7 @@
+{
+  "name": "DISA 24*28 MOULDING MACHINE BREAKDOWN SOLVE",
+  "description": "An industrial AI maintenance expert for Sand Moulding Machines using Gemini Live API for real-time voice diagnostics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
